@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrandonCANalytics
 - 👀 I’m interested in Data Science and web development.
-- 🌱 I’m currently learning Python, HTML, and CSS.
-- 💞️ I’m looking to collaborate on Data Visualization projects.
+- 🌱 I’m currently focusing on Analytics Engineering and Fullstack Web Dev.
+- 💞️ I’m looking to collaborate on Data Visualization and Web dev projects.
 - 📫 How to reach me [...](https://www.linkedin.com/in/cananalytics/)
 
 <!---
